@@ -1,18 +1,22 @@
-### Hi, I am Mozammel Hossain 👋
+<h2 align="right">CyberByte Academy <br/>a place to know the cyber world.</h2>
+<hr/>
 
-<!--
-**generalcoding164/generalcoding164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cyberbyteacademy&label=Profile%20views&color=0e75b6&style=flat" alt="cyberbyteacademy" /> </p>
 
-💬 All about me:
+Hi there, Welcome to Cyberbyte Academy. This is our official account. All the source codes from our classes will be available here. We are pleased to have you.
 
-- 🇧🇩 I'm from Bangladesh.
-- 🌱 I’m a flutter developer.
-- 🔭 I also know about Python, C & C#.
-- 👯 You can check on my YouTube channel & Fiverr; [YouTube](https://www.youtube.com/channel/UC-kjowEjjeuk1BzfhcFKU9Q), [Fiverr](https://www.fiverr.com/s/1QdWV4). 
-- 📫 How to reach me:
-- [Join Discord](https://discord.gg/WcbDuU8sba)
-- [Facebook](https://www.facebook.com/generalcoding164?mibextid=ZbWKwL)
-- [Instagram](https://instagram.com/generalcoding164?igshid=ZDdkNTZiNTM=)
+- 📫 Contact us on **cyberbyteacademy@gmail.com**.
 
-- ⚡ Fun fact: I'm 15y old. :)
+<h3 align="left">Connect with me:</h3>
+<p justify="center">
+
+<!--  social medias  -->
+<a href="https://dev.to/4purbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="4purbo" height="30" width="40" /></a>
+<a href="https://fb.com/generalcoding164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="generalcoding164" height="30" width="40" /></a>
+<a href="https://instagram.com/generalcoding164?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="generalcoding164" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC-kjowEjjeuk1BzfhcFKU9Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="generalcoding164" height="30" width="40" /></a>
+</p>
+
+<hr/>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberbyteacademy&theme=radical" alt="cyberbyteacademy"/></p>
