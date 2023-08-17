@@ -1,4 +1,4 @@
-<h2 align="right">CyberByte Academy <br/>a place to know the cyber world.</h2>
+<h2 align="right">CyberByte Academy <br/>a place to know the computer world.</h2>
 <hr/>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cyberbyteacademy&label=Profile%20views&color=0e75b6&style=flat" alt="cyberbyteacademy" /> </p>
